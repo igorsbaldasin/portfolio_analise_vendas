@@ -21,10 +21,10 @@ Tabela de Fatos: Vendas.
 
 Para facilitar a análise e a visualização, foi criada uma VIEW no SQL (Pedido_completo) que consolida os dados de todas as tabelas em uma única visão lógica.
 
-2. Geração de Dados
+2. Geração de Dados:
 Utilizando um script em Python, um conjunto de mais de 200 registros de vendas e dezenas de clientes e produtos foi gerado de forma aleatória, simulando um ambiente de dados real. Isso permitiu a criação de um volume de dados robusto para a análise.
 
-3. Visualização e Dashboard
+3. Visualização e Dashboard:
 A View Pedido_completo foi importada para o Power BI, onde os dados foram transformados em um dashboard profissional. O painel foi projetado para ser intuitivo e responder a perguntas de negócio, como:
 
 Qual o faturamento total e o número de transações?
