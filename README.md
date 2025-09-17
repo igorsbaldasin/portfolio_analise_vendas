@@ -43,5 +43,6 @@ Performance por Categoria: A categoria de Eletrônicos foi a mais lucrativa, rep
 Tendência de Vendas: A análise mensal mostra que houveram picos de vendas em janeiro e maio, com destaque para maio, que atingiu um total de R$ 389.740,00 de faturamento, sendo o mês que mais gerou receitas. A análise também mostra que houve uma queda abrupta em julho, com apenas R$ 200.600,00, sendo o mês com menor faturamento. Com esses dados, é possível verificar que houve uma variação de R$ 189.140,00, entre os meses com maior e menor faturamento.
 
 Visualização do Dashboard
+
 Abaixo, a visualização do dashboard final, que resume todas as análises:
 ![Imagem do WhatsApp de 2025-09-16 à(s) 20 40 45_de9314ea](https://github.com/user-attachments/assets/2be3718d-c454-442f-9210-16a3c2057630)
